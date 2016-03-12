@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JabrLoader.iml" filepath="$PROJECT_DIR$/JabrLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OSLight.iml" filepath="$PROJECT_DIR$/OSLight.iml" />
     </modules>
   </component>
 </project>

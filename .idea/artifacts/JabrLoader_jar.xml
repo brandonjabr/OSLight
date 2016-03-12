@@ -2,7 +2,7 @@
   <artifact type="jar" build-on-make="true" name="JabrLoader:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/JabrLoader_jar</output-path>
     <root id="archive" name="JabrLoader.jar">
-      <element id="module-output" name="JabrLoader" />
+      <element id="module-output" name="OSLight" />
     </root>
   </artifact>
 </component>
