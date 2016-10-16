@@ -1,5 +1,5 @@
 # OSLight
-A bare-bones client for OSRS. Written in JAVA, so it works for all major platforms (Windows, Mac OSX, Linux)
+A bare-bones client for OSRS. Written in Java, so it works for all major platforms (Windows, Mac OSX, Linux)
 
 #Download/Installation
 Simply run the included OSLight.jar Java client. All Java compatible platforms are supported.
