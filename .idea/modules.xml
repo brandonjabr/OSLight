@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OSLight.iml" filepath="$PROJECT_DIR$/OSLight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-client.iml" filepath="$PROJECT_DIR$/simple-client.iml" />
     </modules>
   </component>
 </project>
