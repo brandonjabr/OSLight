@@ -1,4 +1,4 @@
-package org.runestar
+package org.OSLight
 
 import org.runestar.general.JavConfig
 import org.runestar.general.downloadGamepack
@@ -15,10 +15,10 @@ import javax.swing.BoxLayout
 import javax.swing.JFrame
 import javax.swing.WindowConstants
 import javax.swing.border.LineBorder
-import java.awt.Image;
+import java.awt.Image
 import javax.imageio.ImageIO
-import java.net.URL;
-import javax.swing.ImageIcon;
+import java.net.URL
+import javax.swing.ImageIcon
 
 
 val KratosColor = Color(0xFFCC00)
@@ -57,7 +57,7 @@ fun launch(
 
     var image: Image? = null
     try {
-        val url = URL("https://i.imgur.com/AO4QGtx.png")
+        val url = URL("https://i.imgur.com/tqCjR88.png")
         image = ImageIO.read(url)
     } catch (e: IOException) {
         e.printStackTrace()

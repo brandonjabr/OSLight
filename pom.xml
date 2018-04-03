@@ -75,7 +75,7 @@
                             <minimizeJar>true</minimizeJar>
                             <transformers>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>org.runestar.SimpleClientKt</mainClass>
+                                    <mainClass>org.OSLight.OSLightKt</mainClass>
                                 </transformer>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ApacheLicenseResourceTransformer"/>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ApacheNoticeResourceTransformer">
